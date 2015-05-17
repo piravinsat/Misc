@@ -34,5 +34,3 @@ safetail2 [] = []
 safetail2 xs = drop 1 xs
 
 last xs = head (reverse xs)
-
-insert a xs = 
