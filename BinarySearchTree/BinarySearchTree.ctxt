@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BinarySearchTree()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ BinarySearchTree\n\n
+comment1.params=obj
+comment1.target=void\ add(Comparable)
+comment1.text=\ninserts\ new\ element.\ Parameter\ contains\ object\ to\ insert\n\n
+comment2.target=void\ print()
+comment2.text=\nprints\ contents\ of\ tree\ in\ sorted\ order\n\n
+numComments=3

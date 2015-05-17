@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=newNode
+comment0.target=void\ addNode(Node)
+comment1.target=void\ printNodes()
+numComments=2
